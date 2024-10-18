@@ -15,7 +15,7 @@ export default function AppAbout() {
       <Container fluid>
         <div className="title-holder">
           <h1>About us</h1>
-          <div className="subtitle">learn more about us.</div>
+          <div className="subtitle">Learn more about us.</div>
         </div>
         <Row>
           <Col sm={6}>

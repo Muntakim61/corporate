@@ -47,7 +47,7 @@ function AppServices() {
       <Container fluid>
         <div className="title-holder">
           <h2>Our services</h2>
-          <div className="subtitle">services we provide</div>
+          <div className="subtitle">Services we provide</div>
         </div>
         <Row>
           {

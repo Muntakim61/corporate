@@ -92,7 +92,7 @@ function AppTeams() {
       <Container fluid>
         <div className="title-holder">
           <h2>Our teams</h2>
-          <div className="subtitle">some of our experts</div>
+          <div className="subtitle">Some of our experts</div>
         </div>
         <Row>
           {
