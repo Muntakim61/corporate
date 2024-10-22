@@ -37,7 +37,7 @@ function AppHero() {
                     className="d-block w-100"
                     src={hero.image}
                     alt={"slide " + hero.id}
-                    style={{ filter: "blur(5px)" }}
+                    style={{ filter: "blur(1px)" }}
                     // style={{opacity: 0.5}}
                   />
                   <Carousel.Caption>

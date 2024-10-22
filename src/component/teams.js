@@ -6,7 +6,7 @@ import Image from 'react-bootstrap/Image';
 const teamsData = [
   {
     id: 1,
-    image: require('../assets/images/team1.jpg'),
+    image: require('../assets/images/advisor-2.webp'),
     fbLink: 'https://www.facebook.com',
     twitterLink: 'https://www.twitter.com',
     linkedinLink: 'https://www.linkedin.com',
@@ -16,7 +16,7 @@ const teamsData = [
   },
   {
     id: 2,
-    image: require('../assets/images/team2.jpg'),
+    image: require('../assets/images/advisor-3.webp'),
     fbLink: 'https://www.facebook.com',
     twitterLink: 'https://www.twitter.com',
     linkedinLink: 'https://www.linkedin.com',
@@ -26,7 +26,7 @@ const teamsData = [
   },
   {
     id: 3,
-    image: require('../assets/images/team3.jpg'),
+    image: require('../assets/images/advisor-1.webp'),
     fbLink: 'https://www.facebook.com',
     twitterLink: 'https://www.twitter.com',
     linkedinLink: 'https://www.linkedin.com',
@@ -36,7 +36,7 @@ const teamsData = [
   },
   {
     id: 4,
-    image: require('../assets/images/team4.jpg'),
+    image: require('../assets/images/advisor-4.webp'),
     fbLink: 'https://www.facebook.com',
     twitterLink: 'https://www.twitter.com',
     linkedinLink: 'https://www.linkedin.com',
@@ -56,7 +56,7 @@ const teamsData = [
   },
   {
     id: 6,
-    image: require('../assets/images/team6.jpg'),
+    image: require('../assets/images/team1.jpg'),
     fbLink: 'https://www.facebook.com',
     twitterLink: 'https://www.twitter.com',
     linkedinLink: 'https://www.linkedin.com',
