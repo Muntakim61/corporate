@@ -46,7 +46,7 @@ const teamsData = [
   },
   {
     id: 5,
-    image: require('../assets/images/team5.jpg'),
+    image: require('../assets/images/pro2.webp'),
     fbLink: 'https://www.facebook.com',
     twitterLink: 'https://www.twitter.com',
     linkedinLink: 'https://www.linkedin.com',
@@ -56,7 +56,7 @@ const teamsData = [
   },
   {
     id: 6,
-    image: require('../assets/images/team1.jpg'),
+    image: require('../assets/images/pro3.webp'),
     fbLink: 'https://www.facebook.com',
     twitterLink: 'https://www.twitter.com',
     linkedinLink: 'https://www.linkedin.com',
@@ -66,7 +66,7 @@ const teamsData = [
   },
   {
     id: 7,
-    image: require('../assets/images/team7.jpg'),
+    image: require('../assets/images/pro1.webp'),
     fbLink: 'https://www.facebook.com',
     twitterLink: 'https://www.twitter.com',
     linkedinLink: 'https://www.linkedin.com',
@@ -76,7 +76,7 @@ const teamsData = [
   },
   {
     id: 8,
-    image: require('../assets/images/team8.jpg'),
+    image: require('../assets/images/pro4.webp'),
     fbLink: 'https://www.facebook.com',
     twitterLink: 'https://www.twitter.com',
     linkedinLink: 'https://www.linkedin.com',
